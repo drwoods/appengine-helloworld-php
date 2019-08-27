@@ -1,4 +1,3 @@
-application: helloworld-php
 service: helloworldphp
 version: 1
 runtime: php55
